@@ -14,3 +14,5 @@ examples/giraffe.jpg
 examples/yolov3-tiny.cfg
 examples/yolov3-tiny.weights
 examples/coco.names
+
+.npmrc
