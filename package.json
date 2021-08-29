@@ -32,6 +32,6 @@
     "@types/node": "^12.12.54",
     "canvas": "^2.6.1",
     "jasmine": "^3.6.1",
-    "typescript": "^3.9.7"
+    "typescript": "^3.9.10"
   }
 }
